@@ -12,6 +12,7 @@ public class TestClass {
 		public void beforeClass() 
 		{
 			System.out.println("beforeclass");
+			System.out.println("beforeclass1");
 		}
 		
 		
